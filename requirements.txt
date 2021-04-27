@@ -1,0 +1,6 @@
+spacy
+flask
+gevent
+pillow
+requests
+pandas
